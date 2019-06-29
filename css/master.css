@@ -1,0 +1,12 @@
+#tablero {
+  background: url('Laberinto_Fondo.png');
+  line-height: 0px;
+  height: 570px;
+  width: 630px;
+}
+
+#tablero_2, #tablero_3{
+  line-height: 0px;
+  height: 570px;
+  width: 630px;
+}
